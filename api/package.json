@@ -1,0 +1,30 @@
+{
+  "name": "exercise-tracker-api",
+  "version": "1.0.0",
+  "description": "Simple API for my tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WanHrust/mern-exercise-tracker.git"
+  },
+  "keywords": [
+    "mern",
+    "tracker",
+    "exercise"
+  ],
+  "author": "RustamAV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WanHrust/mern-exercise-tracker/issues"
+  },
+  "homepage": "https://github.com/WanHrust/mern-exercise-tracker#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1"
+  }
+}
